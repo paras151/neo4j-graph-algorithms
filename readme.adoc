@@ -1,4 +1,4 @@
-= Efficient Graph Algorithms for Neo4j
+= Efficient Graph Algorithms for Neo4j(Depreated)
 
 This libray has been deprecated by the Graph Data Science (GDS) library, now available on our  https://neo4j.com/download-center/[download center^] or via our github repo at https://github.com/neo4j/graph-data-science/. 
 
